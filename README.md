@@ -12,7 +12,7 @@ This project demonstrates a minimal, local demo that generates descriptive capti
 
 ## 🔍 Overview
 
-“Accessible Image Captioner” lets a user upload an image and immediately receive a concise, human-readable description. All processing happens locally (no external API calls), illustrating Apple’s emphasis on privacy. It uses a pretrained BLIP image-captioning model from Hugging Face and a Streamlit front end.
+“Accessible Image Captioner” lets a user upload an image and immediately receive a concise, human-readable description. All processing happens locally (no external API calls), illustrating emphasis on privacy. It uses a pretrained BLIP image-captioning model from Hugging Face and a Streamlit front end.
 
 **Key Objectives:**
 - Highlight **multimodal ML**: vision→language via a BLIP model  
@@ -95,7 +95,7 @@ _Caption:_ “A group of people standing in a kitchen”
 
 ## 🎓 Project Highlights
 
-- **Rapid Prototyping**: Built in one day to meet Apple AIML’s emphasis on fast innovation  
+- **Rapid Prototyping**: Built in one day  
 - **Multimodal ML**: Uses vision and language models together  
 - **Accessibility Focus**: Generates alt-text automatically, addressing real user needs  
 - **Privacy-First Design**: All inference is local—no user data leaves the machine  
