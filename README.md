@@ -1,4 +1,9 @@
 # accessible_image_captioner
+
+## Demo Screenshot
+
+![App Screenshot](screenshot1.png)
+
 Privacy-First Image-to-Text Demo
 
 This project demonstrates a minimal, local demo that generates descriptive captions (alt-text) for uploaded images—showcasing multimodal ML, accessibility focus, and on-device inference.
