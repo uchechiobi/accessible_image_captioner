@@ -1,11 +1,11 @@
 # accessible_image_captioner
-One-Day Privacy-First Image-to-Text Demo
+Privacy-First Image-to-Text Demo
 
 This project demonstrates a minimal, local demo that generates descriptive captions (alt-text) for uploaded images—showcasing multimodal ML, accessibility focus, and on-device inference.
 
 🔍 Overview
 
-“Accessible Image Captioner” lets a user upload an image and immediately receives a concise, human-readable description. All processing happens locally (no external API calls), illustrating Apple’s emphasis on privacy. It uses a pretrained BLIP image-captioning model from Hugging Face and a Streamlit front end.
+“Accessible Image Captioner” lets a user upload an image and immediately receives a concise, human-readable description. All processing happens locally (no external API calls), illustrating emphasis on privacy. It uses a pretrained BLIP image-captioning model from Hugging Face and a Streamlit front end.
 
 Key Objectives:
 
@@ -109,4 +109,5 @@ This project is released under the MIT License.
 Uchechi Obi-Iwuagwu
 
 GitHub: github.com/uchechiobi
+LinkedIn: https://www.linkedin.com/in/ucheobi27/
 Email: ucheobiiwuagwu@gmail.com
